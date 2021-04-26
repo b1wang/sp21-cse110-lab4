@@ -28,21 +28,34 @@
     
 13.
     a. '32' because the 2 is automatically converted to a string to concatenate. 
+    
     b. 1, because you cannot subtract a string so it converts the '3' into numerical value.
+    
     c. 3, because null is automatically converted to a zero. 
+    
     d. '3null' because null is converted to a string when '3' is a string. 
+    
     e. 4, because true is converted to numerical 1. 
+    
     f. 0, because false and null both convert into numerical zero. 
+    
     g. 3undefined, because '3' is already a string so it concatenates the 3 and undefined.
+    
     h. NaN, because undefined converts into NaN when doing a numerical conversion. 
 
 14.
     a. True, because 2 becomes the number 2.
+    
     b. False, because when strings are compared they are compared lexicographically, and 1 is less than 2.
+    
     c. True, because '2' is converted into the numerical 2.
+    
     d. False, because === compared types and 2 is not the same type as the string '2'. 
+    
     e. False, because true is converted into 1, and 1 is not equal to 2. 
+    
     f. True, because Boolean(2) converts to true, and true is the same type as true (both booleans). 
+    
     
 15. == just compared the values of the data type, while === compares the data types too. 
 
