@@ -63,7 +63,9 @@
     
 15. == just compared the values of the data type, while === compares the data types too. 
 
-17. The function will print out the array with all of its values multiplied by 2. It first creates a new array to store the modified array, and then pushes each value through the function callback of doSomething, which will return the number multiplied by 2. This results is each value of the original array being multipled by 2 in doSomething. 
+
+17) The function will print out the array with all of its values multiplied by 2. It first creates a new array to store the modified array, and then pushes each value through the function callback of doSomething, which will return the number multiplied by 2. This results is each value of the original array being multipled by 2 in doSomething. 
+
 
 19. The output is 1 4 3 2, because 1 and 4 are printed directly to console, while 3 is set to print after 0 seconds and 2 is set to print after 1 second. 
 
