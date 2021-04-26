@@ -1,4 +1,4 @@
-## 1a. 
+## Part 1a. 
 1. 20
 2. 20
 3. 20
@@ -6,7 +6,7 @@
 5. This code returns an error because const cannot be assigned to, which result = num1 + num2 tries to do. 
 6. This code returns an error because const cannot be assigned to, which result = num1 + num2 tries to do. 
 
-## 1b. 
+## Part 1b. 
 1. The console will log the length of the prices array, which is 3. 
 2. The console will log the last discounted price in the array. In this case, it is 300 * (1 - 0.5), which is 150. 
 3. The code rounds the discounted price to the nearest hundredths by multiplying the discounted price by 100 and rounding it, and then dividing by 100 to get it back to its decimal form. In this case, the code is (150 * 100) / 100, which is 150. 
