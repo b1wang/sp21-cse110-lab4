@@ -21,9 +21,13 @@
 
 12.
     a. student.name
+    
     b. student["Grad Year"]
+    
     c. student.greeting()
+    
     d. student["Favorite Teacher"].name
+    
     e. student.courseLoad[0]
     
 13.
